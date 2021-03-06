@@ -2,4 +2,4 @@
 Read Me Generator
 ##License 
 MIT
-![GitHub](https://img.shields.io/github/license-MIT)
+![GitHub](https://img.shields.io/license-MIT)
