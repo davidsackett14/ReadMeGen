@@ -1,0 +1,24 @@
+{
+  "name": "readmegen",
+  "version": "1.0.0",
+  "description": "Read Me Generator ##License  MIT ![GitHub](https://img.shields.io/badge/not_a_license-Different_words-yellow)",
+  "main": "index.js",
+  "dependencies": {
+    "enquirer": "^2.3.6",
+    "inquirer": "^8.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidsackett14/ReadMeGen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidsackett14/ReadMeGen/issues"
+  },
+  "homepage": "https://github.com/davidsackett14/ReadMeGen#readme"
+}

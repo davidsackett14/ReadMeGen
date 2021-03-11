@@ -1,6 +1,6 @@
 //badges
-const badge= function(){
-switch(`${data.license}`) {
+const badge= function(license){
+switch(`${license}`) {
   case 'MIT':
     licenseBadge = '![License](https://img.shields.io/badge/license-MIT-green)'
     break;
@@ -18,7 +18,7 @@ switch(`${data.license}`) {
 // function to generate markdown for README
 function generateMarkdown(data) {
   return `
-  ${badge}
+  ${badge(data.license)}
   ---
   # ${data.title}
 
