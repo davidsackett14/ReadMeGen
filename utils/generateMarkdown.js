@@ -52,7 +52,7 @@ function generateMarkdown(data) {
   
   ## License
   
-  ${data.License}
+  ${data.license}
   
   
   ## Languages Used
