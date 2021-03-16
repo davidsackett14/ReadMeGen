@@ -1,6 +1,9 @@
 //badges
-const badge= function(license){
-switch(`${license}`) {
+
+function badge(license){
+  var licenseBadge = ''
+switch(license) {
+
   case 'MIT':
     licenseBadge = '![License](https://img.shields.io/badge/license-MIT-green)'
     break;
@@ -13,11 +16,15 @@ switch(`${license}`) {
   case 'JRL':
     licenseBadge = '![License](https://img.shields.io/badge/license-JRL-red)'
     break;
+    }
+    return licenseBadge
 }
-}
+
 // function to generate markdown for README
 function generateMarkdown(data) {
+  
   return `
+
   ${badge(data.license)}
   ---
   # ${data.title}
@@ -76,3 +83,4 @@ function generateMarkdown(data) {
 }
 
 module.exports = generateMarkdown;
+

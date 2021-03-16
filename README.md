@@ -1,11 +1,12 @@
 
-  undefined
+
+  ![License](https://img.shields.io/badge/license-MIT-green)
   ---
-  # readMe Generator
+  # s
 
   ## Description
   
-  This project is an example of obtaining data through user input and creating files using that data
+  s
   
   
   ## Table of Contents (Optional)
@@ -18,17 +19,17 @@
   
   ## Installation
   
-  This code can be ran through a code editor using node.js
+  s
   
   
   ## Usage 
   
-  when I respond to the question what is the title the program inputs that under the heading of title for a readme.md file
+  s
   
   
   ## Credits
   
-  documentation from NPM inquirer <br> examples from trilogy learning activities <br> w3 schools
+  s
   
   
   ## License
@@ -38,18 +39,18 @@
   
   ## Languages Used
 
-  JavaScript
+  s
 
   ## Features
   
-  this application is ran through node.js to create high quality consistent READMEs 
+  s
   
   ## Contributing
   
-  No contributions will be accepted for this project
+  s
   
   ## Tests
   
-  No tests are available for this project
+  s
   
  
