@@ -1,12 +1,14 @@
 
 
+
+
   ![License](https://img.shields.io/badge/license-MIT-green)
   ---
-  # s
+  # ReadMeGen
 
   ## Description
   
-  s
+  this app automatically generates a markdown document using the 
   
   
   ## Table of Contents (Optional)
@@ -19,17 +21,17 @@
   
   ## Installation
   
-  s
+  run npm i to install all dependencies then run the command `node index.js`
   
   
   ## Usage 
   
-  s
+  this can be used to create READMEs for various applications and website projects
   
   
   ## Credits
   
-  s
+  inquirer
   
   
   ## License
@@ -39,18 +41,18 @@
   
   ## Languages Used
 
-  s
+  javascript
 
   ## Features
   
-  s
+  this application creates a survey and uses that survey info to generate a markdown document
   
   ## Contributing
   
-  s
+  they may not
   
   ## Tests
   
-  s
+  run in node , answer survery, if this does not prodce a markdown document then it is not working
   
  
