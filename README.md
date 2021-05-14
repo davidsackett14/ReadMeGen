@@ -49,7 +49,7 @@
   
   ## Contributing
   
-  they may not
+  not allowable
   
   ## Tests
   
