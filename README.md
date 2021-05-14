@@ -21,7 +21,7 @@
   
   ## Installation
   
-  run npm i to install all dependencies then run the command `node index.js`
+  run `npm i` to install all dependencies then run the command `node index.js`
   
   
   ## Usage 
